@@ -5,7 +5,7 @@ permalink: /ja/about_abci/info.html
 ---
 
 
-## 運転状況
+## 運転状況★
 {: .h2 }
 
 
