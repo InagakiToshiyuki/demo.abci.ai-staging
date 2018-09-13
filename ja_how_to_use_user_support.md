@@ -1,4 +1,4 @@
----
+﻿---
 layout: ja/how_to_use/user_support
 title: ユーザーサポート - ご利用方法 | ABCI
 permalink: /ja/how_to_use/user_support.html
@@ -66,14 +66,7 @@ permalink: /ja/how_to_use/user_support.html
 <li class="dot">日本語版： <a href="https://portal.abci.ai/docs/portal/ja/01" target="_blank"><u>https://portal.abci.ai/docs/portal/ja/01</u></a></li>
 <li class="dot">英語版： <a href="https://portal.abci.ai/docs/portal/en/01" target="_blank"><u>https://portal.abci.ai/docs/portal/en/01</u></a></li>
 </ul>
-<br />
 
-<h4 class="h4">ABCIの停止スケジュール・既知の問題</h4>
-
-<ul class="dot_ul">
-<li class="dot">日本語版： <a href="https://portal.abci.ai/info/ja/" target="_blank"><u>https://portal.abci.ai/info/ja/</u></a></li>
-<li class="dot">英語版： <a href="https://portal.abci.ai/info/en/" target="_blank"><u>https://portal.abci.ai/info/en/</u></a></li>
-</ul>
 
 <br />
 <h4 class="h4">ABCI利用手引き</h4>
@@ -81,6 +74,29 @@ permalink: /ja/how_to_use/user_support.html
 <ul class="dot_ul">
 <li class="dot">日本語版： <a href="https://portal.abci.ai/docs/ja/" target="_blank"><u>https://portal.abci.ai/docs/ja/</u></a></li>
 <li class="dot">英語版： <a href="https://portal.abci.ai/docs/en/" target="_blank"><u>https://portal.abci.ai/docs/en/</u></a></li>
+</ul>
+<br />
+<h4 class="h4">ABCIの利用申請と利用料金に関わるよくある質問(FAQ)</h4>
+
+<ul class="dot_ul">
+<li class="dot">日本語版： <a href="https://abci.ai/ja/how_to_use/faq.html" target="_blank"><u>https://abci.ai/ja/how_to_use/faq.html</u></a></li>
+<li class="dot">英語版： <a href="https://abci.ai/en/how_to_use/faq.html" target="_blank"><u>https://abci.ai/en/how_to_use/faq.html</u></a></li>
+</ul>
+<br />
+
+<h4 class="h4">ABCIの利用上のよくある質問(FAQ)・既知の問題</h4>
+
+<ul class="dot_ul">
+<li class="dot">日本語版： <a href="https://portal.abci.ai/info/ja/" target="_blank"><u>https://portal.abci.ai/info/ja/</u></a></li>
+<li class="dot">英語版： <a href="https://portal.abci.ai/info/en/" target="_blank"><u>https://portal.abci.ai/info/en/</u></a></li>
+</ul>
+<br />
+
+<h4 class="h4">ABCIの運転状況・障害状況・メンテナンス予定・障害履歴</h4>
+
+<ul class="dot_ul">
+<li class="dot">日本語版： <a href="https://abci.ai/ja/about_abci/info.html" target="_blank"><u>https://abci.ai/ja/about_abci/info.html</u></a></li>
+<li class="dot">英語版： <a href="https://abci.ai/en/about_abci/info.html" target="_blank"><u>https://abci.ai/en/about_abci/info.html</u></a></li>
 </ul>
 
 

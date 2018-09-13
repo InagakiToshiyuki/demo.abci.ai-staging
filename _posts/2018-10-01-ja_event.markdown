@@ -1,12 +1,13 @@
 ---
 layout: ja/event/post
 title:  "ABCIグランドチャレンジ2018（第2回）"
-date:   2018-10-01 00:00:00 +0900
-showdate: 2018.10.01
+date:   2018-10-23 00:00:00 +0900
+showdate: 2018.10.23-26
 lang: ja
+headline: "1"
 categories: "EVENT"
 img: event2.png
-outurl: 
+outurl:
 ---
 
 
@@ -42,19 +43,19 @@ outurl:
 </tr>
 <tr>
 <td>第1回（終了）</td>
-<td>2018.4.1-2018.4.30</td>
+<td>2018.4.1-30</td>
 <td>2018.5.30</td>
-<td>2018.7.23-2018.7.27</td>
+<td>2018.7.23-27</td>
 </tr>
 <tr>
-<td>第2回【募集中】</td>
-<td>2018.8.1-2018.8.31</td>
+<td>第2回【募集締切】</td>
+<td>2018.8.1-31</td>
 <td>2018.9.30</td>
-<td>2018.10末（予定）</td>
+<td>2018.10.23-26</td>
 </tr>
 <tr>
 <td>第3回</td>
-<td>2018.11.1-2018.11.30</td>
+<td>2018.11.1-30</td>
 <td>2018.12.21</td>
 <td>2019.1末（予定）</td>
 </tr>
@@ -143,5 +144,3 @@ outurl:
 日本語 ／ 産総研「ABCIグランドチャレンジ」プログラムにより提供を受けた，AI橋渡しクラウド（ABCI）の計算リソースを用いた．<br />
 英語 ／ Computational resource of AI Bridging Cloud Infrastructure (ABCI) was awarded by
 “ABCI Grand Challenge” Program, National Institute of Advanced Industrial Science and Technology (AIST).
-
-

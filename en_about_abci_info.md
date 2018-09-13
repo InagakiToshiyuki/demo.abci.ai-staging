@@ -35,13 +35,18 @@ permalink: /en/about_abci/info.html
   </tr>
   <tr>
     <td>9/21 13:00</td>
-    <td>9/26 13:00</td>
+    <td>9/26 17:00</td>
     <td>Whole ABCI system and ABCI User Portal stopped, <br />due to electric power outage.<br />(Planned schedule may be changed.)</td>
   </tr>
   <tr>
-    <td>End of Oct TBD</td>
+    <td>10/23 12:00</td>
+    <td>10/26 12:00</td>
+    <td>ABCI service restriction due to "ABCI Grand Challenge #2" <br />(The whole ABCI nodes are out of services.)</td>
+  </tr>
+  <tr>
+    <td>End of Oct～<br />Top of Nov<br />TBD</td>
     <td>&nbsp;</td>
-    <td>ABCI usage restricted due to "ABCI Grand Challenge #2" <br />(The restriction of whole nodes usage is included.)</td>
+    <td>ABCI system and ABCI User Portal stopped, due to electric power outage.</td>
   </tr>
   <tr>
     <td>Mid of Dec TBD</td>

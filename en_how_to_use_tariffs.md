@@ -24,7 +24,7 @@ permalink: /en/how_to_use/tariffs.html
 <br />
 <div align="center"><img src="../../img/how_to_use/tariffs/en_img.jpg" /></div><br />
 
-<div class="lead_text">Spot can be prioritized. (the job will be executed prior to ordinary jobs.) In this case, the priority coefficient is 1.5.</div>
+<div class="lead_text">Spot can be prioritized (the job will be executed prior to ordinary jobs). In this case, the priority coefficient is 1.5</div>
 
 <table class="table en">
 <tr align="center">
@@ -113,7 +113,7 @@ permalink: /en/how_to_use/tariffs.html
 
 <br />
 <ul class="dot_ul">
-<li class="dot">The usage fee equivalent to 1 ABCI Point will be reviewed annually. For FY H30 (ending March 31, 2019), 1 ABCI Point is 200 yen.</li>
+<li class="dot">The usage fee equivalent to 1 ABCI Point will be reviewed annually. For FY H30 (ending March 31, 2019), 1 ABCI Point is 200 yen (Tax not included).</li>
 <li class="dot">Points not used by the end of the fiscal year will expire and will not carry over into the following fiscal year.  However, if ABCI is not available due to unavoidable circumstances beyond the user's control such as natural disasters and ABCI is not available until the end of March and the inoperable period exceeds 20 days, then ABCI Points can be carried over to the next fiscal year.</li>
 <li class="dot">Paid usage fees will not be refunded.</li>
 <li class="dot">In the following cases, the usage fee will be waived:<br />
@@ -121,5 +121,3 @@ permalink: /en/how_to_use/tariffs.html
 ->Other exceptional cases when AIST decides to waive the usage fees.</li>
 </ul>
 </div>
-
-

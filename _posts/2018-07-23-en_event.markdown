@@ -4,6 +4,7 @@ title:  "ABCI Grand Challenge 2018 (No.1)"
 date:   2018-07-23 00:00:00 +0900
 showdate: 2018.07.23-27
 lang: en
+headline: "1"
 categories: "EVENT"
 img: event2.png
 ---
@@ -40,19 +41,19 @@ img: event2.png
 </tr>
 <tr>
 <td>No.1 <br /><nobr>(On Going)</nobr></td>
-<td>2018.4.1-2018.4.30</td>
+<td>2018.4.1-30</td>
 <td>2018.5.30</td>
-<td>2018.7.23-2018.7.27</td>
+<td>2018.7.23-27</td>
 </tr>
 <tr>
 <td>No.2</td>
-<td>2018.8.1-2018.8.31</td>
+<td>2018.8.1-31</td>
 <td>2018.9.30</td>
 <td>End of 2018.10. <br />(Tentative Date)</td>
 </tr>
 <tr>
 <td>No.3</td>
-<td>2018.11.1-2018.11.30</td>
+<td>2018.11.1-30</td>
 <td>2018.12.21</td>
 <td>End of 2019.1. <br />(Tentative Date)</td>
 </tr>
@@ -120,7 +121,7 @@ Review will be based on the following:<br />
 <li class="dot">When publishing the results, please include  "using ABCI" and "The results were achieved through the ABCI Grand Challenge Program."</li>
 <li class="dot">We may ask to Challengers to present the results at seminars or workshops organized by AIST. </li>
 <li class="dot">The intellectual properties obtained through the ABCI Grand Challenge belong to the executing parties. However, themes carried out as collaborative research with AIST will follow the Joint Research Agreement.</li>
-</ul> 
+</ul>
 
 <br />
 
@@ -136,6 +137,4 @@ Review will be based on the following:<br />
 </div>
 <div>
 <strong>■ Examples of Acknowledgement</strong><br />
-Computational resource of AI Bridging Cloud Infrastructure (ABCI) was awarded by "ABCI Grand Challenge" Program, National Institute of Advanced Industrial Science and Technology (AIST). 
-
-
+Computational resource of AI Bridging Cloud Infrastructure (ABCI) was awarded by "ABCI Grand Challenge" Program, National Institute of Advanced Industrial Science and Technology (AIST).

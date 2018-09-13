@@ -5,7 +5,7 @@ permalink: /en/how_to_use/member.html
 ---
 
 
-## AIST Research Units/Teams (ABCI RULES)
+## AIST Research Units/Teams <br />(ABCI RULES)
 {: .h2 }
 
 
@@ -65,8 +65,6 @@ permalink: /en/how_to_use/member.html
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 
 <div class="bubble">
-<h4 class="h4">Modifications will be registered in ABCI User Portal.<br />(Please check the ABCI User Portal.)
+<h4 class="h4">Modifications will be registered in ABCI User Portal.<br />(Please check the ABCI User Portal)
 </h4>
 </div>
-
-

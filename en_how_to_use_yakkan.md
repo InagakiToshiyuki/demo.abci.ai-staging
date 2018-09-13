@@ -10,7 +10,7 @@ permalink: /en/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">Is it possible for the same organization (including corporations, universities, institutes, etc.) to apply for multiple applications?</dt>
-<dd class="a">Yes, it is possible. You are welcome to apply for multiple applications based on your organization's department, budget, project, etc. 
+<dd class="a">Yes, it is possible. You are welcome to apply for multiple applications based on your organization's department, budget, project, etc.
 <div align="right"><span class="a_title">Category</span>1.Application <span class="a_title">Number</span>1-1</div>
 </dd>
 </dl>
@@ -93,7 +93,7 @@ permalink: /en/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">Is it possible for a Japanese person who lives in a foreign country and returns temporarily to Japan to use ABCI?</dt>
-<dd class="a">It is possible when he or she meets the requirements of Article 5 the ABCI Agreement
+<dd class="a">It is possible when he or she meets the requirements of Article 5 of the ABCI Agreement
 <div align="right"><span class="a_title">Category</span>1.Application <span class="a_title">Number</span>1-13</div>
 </dd>
 </dl>
@@ -122,7 +122,7 @@ permalink: /en/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">How is an ABCI Account issued?</dt>
-<dd class="a">After an application is approved and an ABCI Acceptance Letter is issued, an email containing the ABCI Account Name and initial access procedures will be sent to each individual ABCI users. After following the instructions in the email, users may start using ABCI.
+<dd class="a">After an application is approved and an ABCI Acceptance Letter is issued, an email containing the ABCI Account Name and initial access procedures will be sent to each individual ABCI user. After following the instructions in the email, users may start using ABCI.
 <div align="right"><span class="a_title">Category</span>3.ABCI Account <span class="a_title">Number</span>3-1</div>
 </dd>
 </dl>
@@ -133,7 +133,7 @@ permalink: /en/how_to_use/yakkan.html
 <ul class="dot_ul">
 <li class="dot">Please use more than 15 random characters. Words registered in Linux dictionary are prohibited.</li>
 <li class="dot">The characters must include capital letters [A-Z], lower case letters [a-z], numbers [0-9], and symbols.</li>
-<li class="dot">Available symbols include:(space), !、"、#、$、%、&、'、(、)、*、+、,、-、.、/、:、;、<、=、>、?、@、[、\、]、^、_、`、{、|、}、~</li>
+<li class="dot">Available symbols include: (space), !、"、#、$、%、&、'、(、)、*、+、,、-、.、/、:、;、<、=、>、?、@、[、\、]、^、_、`、{、|、}、~</li>
 <li class="dot">It is highly recommended to use a password generation software.</li>
 <li class="dot">Double-Byte character is prohibited.</li>
 </ul>
@@ -172,9 +172,7 @@ permalink: /en/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">According to Article No. 21 of ABCI Agreement; "ABCI User Representative must notify AIST in advance when a user publicizes research results produced while using ABCI at a conference presentation, a conference announcement, or in a press release." How much information should I provide to AIST?</dt>
-<dd class="a">For conferences, please provide the name of the academic society, conference name, presentation summary/abstract and date. For a press release, please provide the date of release, summary of the press release, and any web links to the press release. The information may be submitted to ABCI Application Reception:<a href="mailto:abci-application-ml@aist.go.jp" target="_blank"><u>abci-application-ml@aist.go.jp</u></a>
+<dd class="a">For conferences, please provide the name of the academic society, conference name, presentation summary/abstract and date. For a press release, please provide the date of release, summary of the press release, and any web links to the press release. The information may be submitted to ABCI Application Reception: <a href="mailto:abci-application-ml@aist.go.jp" target="_blank"><u>abci-application-ml@aist.go.jp</u></a>
 <div align="right"><span class="a_title">Category</span>7.Research Publication <span class="a_title">Number</span>7-1</div>
 </dd>
 </dl>
-
-

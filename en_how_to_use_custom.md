@@ -9,7 +9,7 @@ permalink: /en/how_to_use/custom.html
 {: .h2 }
 
 
-### ABCI Application Procedure：ABCI Agreement Attachment No.1
+### ABCI Application Procedure：<br />ABCI Agreement Attachment No.1
 {: .h3 }
 
 <div class="bubble">
@@ -24,9 +24,9 @@ For the ABCI Usage Application, please access the following URL and follow the i
 </ul>
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
-<div class="bubble"> <h4 class="h4">Additional information may be needed. Please respond to AIST's inquiry, if applicable.</h4></div>
+<div class="bubble"> <h4 class="h4">Additional information may be needed. <br />Please respond to AIST's inquiry, if applicable.</h4></div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
-<div class="bubble"> 
+<div class="bubble">
 <h4 class="h4">Receive an 'Acceptance Letter' from ABCI Application Reception.</h4>
 <div style="text-align:left;">Acceptance Letter</div>
 <ul class="number_ul">
@@ -36,13 +36,13 @@ For the ABCI Usage Application, please access the following URL and follow the i
 
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
-<div class="bubble"> 
+<div class="bubble">
 <h4 class="h4">An email with the ABCI Account name and initial access procedures and URL will be sent to the individual ABCI users.<br />(Please follow the instructions and ABCI users will be able to use ABCI immediately.)</h4>
 </div>
 <br /><br />
 
 
-### ABCI Application Procedure (for individual ABCI Users): ABCI Agreement Attachment No.2
+### ABCI Application Procedure (for individual ABCI Users): <br />ABCI Agreement Attachment No.2
 {: .h3 }
 
 <div class="bubble">
@@ -52,7 +52,7 @@ For the ABCI Usage Application, please access the following URL and follow the i
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 <div class="bubble">
-<h4 class="h4">Additional information may be needed. Please respond to AIST's inquiry, if applicable. </h4>
+<h4 class="h4">Additional information may be needed. <br />Please respond to AIST's inquiry, if applicable. </h4>
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 
@@ -78,7 +78,7 @@ For the ABCI Usage Application, please access the following URL and follow the i
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 <div class="bubble">
-<h4 class="h4">Additional information may be needed. Please respond to AIST's inquiry, if applicable.</h4>
+<h4 class="h4">Additional information may be needed. <br />Please respond to AIST's inquiry, if applicable.</h4>
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 
@@ -89,11 +89,11 @@ For the ABCI Usage Application, please access the following URL and follow the i
 <br /><br />
 
 
-### Payment to ABCI Fees
+### Paying ABCI Fees
 {: .h3 }
 
 <div class="bubble">
-<h4 class="h4">Usage Fee Payment Request Form will be sent to the ABCI User Representative by post from Keisan-Kagaku Inc., an authorized payment agency for AIST's ABCI.</h4>
+<h4 class="h4">A Usage Fee Payment Request Form will be sent to the ABCI User Representative by post from Keisan-Kagaku Inc., an authorized payment agency for AIST's ABCI.</h4>
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 
@@ -103,7 +103,5 @@ For the ABCI Usage Application, please access the following URL and follow the i
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 
 <div class="bubble">
-<h4 class="h4">A receipt is not issued unless requested.<br />If a receipt is needed, please request one from Keisan-Kagaku Inc., an authorized payment agency for AIST's ABCI.<br />ABCI Desk at Keisan-Kagaku Inc.</h4><a href="mailto:cskk-abci@cskk.jp" target="_blank"><u>cskk-abci@cskk.jp</u></a>
+<h4 class="h4">A receipt is not issued unless requested.<br />If a receipt is needed, please request one from Keisan-Kagaku Inc., an authorized payment agency for AIST's ABCI.<br />ABCI Desk email at Keisan-Kagaku Inc.</h4><a href="mailto:cskk-abci@cskk.jp" target="_blank"><u>cskk-abci@cskk.jp</u></a>
 </div>
-
-
