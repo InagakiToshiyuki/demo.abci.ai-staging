@@ -79,7 +79,7 @@ gtag('config', 'UA-118371652-1');
 		{% if http == 'http' %} 
 <li><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="../../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
 	        {% else %}
-<li><a href="../ja/{{ post.outurl }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+<li><a href="../{{ post.outurl }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
 		{% endif %}
         {% else %}
 <li><a href="../..{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
