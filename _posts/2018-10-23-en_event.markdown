@@ -1,0 +1,12 @@
+﻿---
+layout: en/event/post
+title:  <span style="color:red">ABCI nodes are out of services. (10/23 12:00 - 10/26 12:00)</span><span style="color:default"> due to ABCI Grand Challenge Activity. </span>
+date:   2018-10-22 00:00:00 +0900
+showdate: 2018.10.23-26
+lang: en
+headline: "1"
+categories: "EVENT"
+img: bg.png
+outurl: https://abci.ai/en/about_abci/info.html
+---
+

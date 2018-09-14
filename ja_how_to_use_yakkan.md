@@ -119,6 +119,12 @@ permalink: /ja/how_to_use/yakkan.html
 </dd>
 </dl>
 
+<dl class="faq">
+<dt class="q">利用開始日（利用料納付請求日）を指定することはできますか？</dt>
+<dd class="a">通常は、利用開始日（利用料納付請求日）は産総研が「利用承認」した日（利用責任者が「利用承認メール」を受け取った日）となります。特別な理由により、利用開始日（利用料納付請求日）を特定の日以降にしたい場合は、下記までメールでご連絡ください。ただし、利用開始日（利用料納付請求日）を産総研が「利用承認」する日（利用申請日より最長１０営業日）よりも早めることはできません。<br />abci-application-ml <abci-application-ml@aist.go.jp>
+<div align="right"><span class="a_title">分類</span>2.利用料<span class="a_title">通し番号</span>2-2</div>
+</dd>
+</dl>
 
 <dl class="faq">
 <dt class="q">ABCIアカウントはどのように発行されますか？</dt>

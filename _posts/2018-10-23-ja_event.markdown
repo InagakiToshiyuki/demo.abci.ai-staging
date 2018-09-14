@@ -1,0 +1,12 @@
+﻿---
+layout: ja/event/post
+title:  <span style="color:red">ABCI全ノード利用不可 (10/23 12:00 - 10/26 12:00)</span><span style="color:default">ABCIグランドチャレンジによる利用制限</span>
+date:   2018-10-22 00:00:00 +0900
+showdate: 2018.10.23-26
+lang: ja
+headline: "1"
+categories: "EVENT"
+img: bg.png
+outurl: about_abci/info.html
+---
+
