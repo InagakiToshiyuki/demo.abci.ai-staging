@@ -68,7 +68,7 @@
         {% if http == 'http' %} 
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
         {% else %}
-<li><a href="{{ post.outurl }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
+<li><a href="en/{{ post.outurl }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
         {% endif %}
       {% else %}
 <li><a href=".{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
@@ -115,7 +115,7 @@
             {% if http == 'http' %} 
 <li{{ class }}><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
             {% else %}
-<li{{ class }}><a href="{{ post.outurl }}"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+<li{{ class }}><a href="en/{{ post.outurl }}"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
             {% endif %}
           {% else %}
 <li{{ class }}><a href=".{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
