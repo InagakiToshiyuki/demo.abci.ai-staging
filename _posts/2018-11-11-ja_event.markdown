@@ -7,5 +7,5 @@ lang: ja
 headline: "0"
 categories: "EVENT"
 img: event5.png
-outurl: https://sc18.supercomputing.org/
+outurl: about_abci/leadership.html
 ---
