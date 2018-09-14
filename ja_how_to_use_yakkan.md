@@ -185,4 +185,10 @@ permalink: /ja/how_to_use/yakkan.html
 </dd>
 </dl>
 
+<dl class="faq">
+<dt class="q">公的資金（公的機関からの委託研究、助成金など）を使って、ABCIを利用できますか？</dt>
+<dd class="a">利用できます。いくつかの事例がありますので、下記までメールでお問い合わせください。<br />abci-application-ml <abci-application-ml@aist.go.jp>
 
+<div align="right"><span class="a_title">分類</span>8.公的資金<span class="a_title">通し番号</span>8-1</div>
+</dd>
+</dl>

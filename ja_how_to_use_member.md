@@ -38,18 +38,15 @@ permalink: /ja/how_to_use/member.html
 <div class="bubble">
 <h4 class="h4">必要に応じて利用申請担当からの問い合わせに回答</h4>
 </div>
+
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 <div class="bubble">
-<h4 class="h4">利用申請受付担当より「回答書」を受領**</h4>
-<div style="text-align:left;">** 回答書</div>
+<h4 class="h4">「承認通知」メールを受信</h4>
 <ul class="number_ul">
-<li class="number">利用申請書の内容が規約で定めた事項と齟齬がないことを確認後、回答書をメールにて利用責任者宛に送付いたします。</li>
-<li class="number">利用申込後、6営業日を過ぎても回答書が届かない場合は、「利用申請受付」までご連絡ください。</li>
+<li class="number">利用申請書の内容が規約で定めた事項と齟齬がないことを確認後、「承認通知」をメールにて利用責任者宛に送付いたします。</li>
+<li class="number">各利用者へ「ABCIアカウント」発行の連絡をメールでお送りします。メールの指示に従って操作すれば、ABCIをご利用いただけます。</li>
+<li class="number">利用申込後、6営業日を過ぎても「承認通知」が届かない場合は、「利用申請受付」までご連絡ください。</li>
 </ul>
-</div>
-<div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
-<div class="bubble">
-<h4 class="h4">システムから利用者へ、ABCIアカウント名と初期アクセス方法をメール通知<br />（メールの指示に従って操作すれば、ご利用開始いただけます）</h4>
 </div>
 
 <br /><br /><br />
@@ -72,5 +69,3 @@ permalink: /ja/how_to_use/member.html
 <div class="bubble">
 <h4 class="h4">変更内容が反映される<br />（利用者ポータルにてご確認ください）</h4>
 </div>
-
-

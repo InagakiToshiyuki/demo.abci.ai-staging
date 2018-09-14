@@ -1,6 +1,6 @@
----
+﻿---
 layout: en/event/post
-title:  "ABCI Grand Challenge 2018 (No.2)"
+title:  <span style="color:default">ABCI Grand Challenge 2018 (No.2) ABCI service restriction due to ABCI Grand Challenge Activity. </span><span style="color:red">The whole ABCI nodes are out of services. (10/23 12:00 - 10/26 12:00)</span>
 date:   2018-10-23 00:00:00 +0900
 showdate: 2018.10.23-26
 lang: en

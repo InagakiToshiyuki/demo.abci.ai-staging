@@ -1,6 +1,6 @@
----
+﻿---
 layout: ja/event/post
-title:  "ABCIグランドチャレンジ2018（第2回）"
+title:  <span style="color:default">ABCIグランドチャレンジ2018（第2回）ABCIグランドチャレンジ実施に伴うABCIサービス利用制限発生。</span><span style="color:red">ABCI全ノード利用不可 (10/23 12:00 - 10/26 12:00)</span>
 date:   2018-10-23 00:00:00 +0900
 showdate: 2018.10.23-26
 lang: ja
