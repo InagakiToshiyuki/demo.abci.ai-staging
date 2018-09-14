@@ -64,7 +64,16 @@
   {% for categories in post.categories %}
     {% if post.lang == 'en' and post.headline == '1' %} 
       {% if categories == 'HEADLINE' %} 
+        {% if post.outurl != null and post.outurl != '' and post.outurl != '-' %}
+          {% assign http = post.outurl | slice: 0, 4 %}
+          {% if http == 'http' %} 
+<li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} </span>{{ post.title }}</a></li>
+          {% else %}
+<li><a href="en/{{ post.outurl }}"><span>{{ post.showdate }} </span>{{ post.title }}</a></li>
+          {% endif %}
+        {% else %}
 <li><b><span>{{ post.showdate }} </span><br />{{ post.title }}</b></li>
+        {% endif %}
       {% elsif post.outurl != null and post.outurl != '' and post.outurl != '-' %} 
         {% assign http = post.outurl | slice: 0, 4 %}
         {% if http == 'http' %} 
