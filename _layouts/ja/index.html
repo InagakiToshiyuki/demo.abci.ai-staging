@@ -62,8 +62,13 @@
     {% if post.lang == 'ja' and post.headline == '1' %}
       {% if categories == 'HEADLINE' %}
 <li><b><span>{{ post.showdate }} </span><br />{{ post.title }}</b></li>
-      {% elsif post.outurl != null and post.outurl != '' %}
+      {% elsif post.outurl != null and post.outurl != '' and post.outurl != '-' %}
+        {% assign http = post.outurl | slice: 0, 4 %}
+        {% if http == 'http' %} 
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
+        {% else %}
+<li><a href="{{ post.outurl }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
+        {% endif %}
       {% else %}
 <li><a href="..{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
       {% endif %}
@@ -104,8 +109,13 @@
             {% assign class = "" %}
           {% endif %}
 
-          {% if post.outurl != null and post.outurl != '' %}
+          {% if post.outurl != null and post.outurl != '' and post.outurl != '-' %}
+            {% assign http = post.outurl | slice: 0, 4 %}
+            {% if http == 'http' %} 
 <li{{ class }}><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+            {% else %}
+<li{{ class }}><a href="{{ post.outurl }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+            {% endif %}
           {% else %}
 <li{{ class }}><a href="..{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
           {% endif %}
