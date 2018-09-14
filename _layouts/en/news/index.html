@@ -74,9 +74,12 @@ gtag('config', 'UA-118371652-1');
     {% for categories in post.categories %}
       {% if categories == 'NEWS' %} 
 
-        {% if post.outurl != null and post.outurl != '' %} 
-		{% if post.outurl != '-' %} 
+        {% if post.outurl != null and post.outurl != '' and post.outurl != '-' %} 
+		{% assign http = post.outurl | slice: 0, 4 %}
+		{% if http == 'http' %} 
 <li class="news"><a href="{{ post.outurl }}" class="news_link" target="_blank"><strong class="news_date">{{ post.showdate }}</strong>{{ post.title }}</a></li>
+	        {% else %}
+<li class="news"><a href="../{{ post.outurl }}" class="news_link"><strong class="news_date">{{ post.showdate }}</strong>{{ post.title }}</a></li>
 		{% endif %}
         {% else %}
 <li class="news"><a href="../..{{ post.url }}" class="news_link"><strong class="news_date">{{ post.showdate }}</strong>{{ post.title }}</a></li>
