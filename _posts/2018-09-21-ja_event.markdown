@@ -6,6 +6,6 @@ showdate: 2018.09.21
 lang: ja
 headline: "1"
 categories: "NEWS"
-outurl: about_abci/info.html
+outurl: /ja/about_abci/info.html
 ---
 
