@@ -64,7 +64,13 @@ gtag('config', 'UA-118371652-1');
 <span property="itemListElement" typeof="ListItem"><span property="name">{{ page.title }}</span>
 <meta property="position" content="3"></span>
 </div>
-<h1 class="h1">イベント情報</h1>
+<h1 class="h1">
+{% if post.pagetitle == null or post.pagetitle == "" %}
+イベント情報
+{% else %}
+{{ post.pagetitle }}
+{% endif %}
+</h1>
 
 </div>
 
