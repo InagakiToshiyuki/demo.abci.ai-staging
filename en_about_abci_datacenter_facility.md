@@ -35,9 +35,12 @@ permalink: /en/about_abci/datacenter_facility.html
 <li class="dot">70kW/rack: 60kW water＋10kW air</li>
 </ul>
 </li>
-</ul>   
+</ul>
 </div>
 
 <img src="../../img/about_abci/data/img2.png" style="padding:0 10px" />
+<br /><br />
 
-
+### Gallery
+{: .h3 }
+<iframe style="max-width: 100%" width="640" height="360" src="https://www.youtube.com/embed/Y5gflcbpyj4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

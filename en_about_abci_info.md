@@ -56,7 +56,7 @@ permalink: /en/about_abci/info.html
   <tr>
     <td>End of Jan TBD</td>
     <td>&nbsp;</td>
-    <td>ABCI usage restricted due to "ABCI Grand Challenge #2" <br />(The restriction of whole nodes usage is included.)</td>
+    <td>ABCI usage restricted due to "ABCI Grand Challenge #3" <br />(The restriction of whole nodes usage is included.)</td>
   </tr>
 </table>
 <br /><br />
