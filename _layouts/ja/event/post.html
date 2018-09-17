@@ -65,10 +65,10 @@ gtag('config', 'UA-118371652-1');
 <meta property="position" content="3"></span>
 </div>
 <h1 class="h1">
-{% if post.pagetitle != null %}
-{{ post.pagetitle }}
-{% else %}
+{% if post.pagetitle == null or post.pagetitle == "" %}
 イベント情報
+{% else %}
+{{ post.pagetitle }}
 {% endif %}
 </h1>
 
