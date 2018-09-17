@@ -63,7 +63,7 @@ gtag('config', 'UA-118371652-1');
 <span property="itemListElement" typeof="ListItem"><span property="name">{{ page.title }}</span>
 <meta property="position" content="3"></span>
 </div>
-<h1 class="h1">EVENTS</h1>
+<h1 class="h1"><h1 class="h1">{% if page.subtitle == null or page.subtitle == "" %}EVENTS{% else %}{{ page.subtitle }}{% endif %}</h1>
 
 </div>
 
