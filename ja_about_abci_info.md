@@ -1,7 +1,7 @@
 ﻿---
-layout: ja/about_abci/info
-title: 運転状況 - ABCIについて | ABCI
-permalink: /ja/about_abci/info.html
+layout: "ja/about_abci/info"
+title: "運転状況 - ABCIについて | ABCI"
+permalink: "/ja/about_abci/info.html"
 ---
 
 
